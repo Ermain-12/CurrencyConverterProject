@@ -63,3 +63,7 @@ Prototypes One through Three with Prototype One being the current group selectio
 
 ### Part II:
 <img src='https://github.com/Ermain-12/CurrencyConverterProject/blob/master/currencyconverter-walkthrough-part-ii.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### Part III:
+<img src='https://github.com/Ermain-12/CurrencyConverterProject/blob/master/currencyconverter-walkthrough-part-iii.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
