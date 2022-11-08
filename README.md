@@ -56,3 +56,10 @@ Prototypes One through Three with Prototype One being the current group selectio
 ![prototype_two](https://user-images.githubusercontent.com/109637465/197349209-b8b96664-a055-4494-9d72-7ce1fbbab5de.jpg)
 ![prototype_one](https://user-images.githubusercontent.com/109637465/197349211-3f2ee541-7b6e-4096-a102-10b1035674c0.jpg)
 ![prototype_three](https://user-images.githubusercontent.com/109637465/197349254-c23bda92-683e-45dd-8d1d-c70920adccab.jpg)
+
+## Video Walkthrough 
+### Part I:
+<img src='currencyconverter-walkthrough-part-i' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### Part II:
+<img src='currencyconverter-walkthrough-part-ii' title='Video Walkthrough' width='' alt='Video Walkthrough' />
