@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CurrencyConverterProject</string>
+    <string name="currency">Currency</string>
+    <string name="currency_amount">Currency Amount...</string>
+    <string name="amount">Amount</string>
+    <string name="convert">Convert</string>
+
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>GBP</item>
+        <item>EUR</item>
+        <item>TRY</item>
+        <item>CAD</item>
+        <item>BRL</item>
+        <item>CNY</item>
+        <item>CZK</item>
+    </string-array>
+</resources>
