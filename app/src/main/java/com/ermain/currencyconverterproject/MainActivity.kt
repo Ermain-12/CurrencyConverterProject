@@ -44,49 +44,49 @@ class MainActivity : AppCompatActivity() {
                             val conversionRate = 1.5459
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "$${newAmount.toString()}"
+                            conversionAmountView.text = "$ ${newAmount.toString()}"
                         }
                         "GBP" -> {
                             val conversionRate = 0.86881
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "₤${newAmount.toString()}"
+                            conversionAmountView.text = "₤ ${newAmount.toString()}"
                         }
                         "EUR" -> {
                             val conversionRate = 0.99868
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "€${newAmount.toString()}"
+                            conversionAmountView.text = "€ ${newAmount.toString()}"
                         }
                         "TRY" -> {
                             val conversionRate = 18.4645
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "₺${newAmount.toString()}"
+                            conversionAmountView.text = "₺ ${newAmount.toString()}"
                         }
                         "CAD" -> {
                             val conversionRate = 1.3502
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "C$${newAmount.toString()}"
+                            conversionAmountView.text = "C$ ${newAmount.toString()}"
                         }
                         "BRL" -> {
                             val conversionRate = 1.5459
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "R$${newAmount.toString()}"
+                            conversionAmountView.text = "R$ ${newAmount.toString()}"
                         }
                         "CNY" -> {
                             val conversionRate = 1.5459
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "¥${newAmount.toString()}"
+                            conversionAmountView.text = "¥ ${newAmount.toString()}"
                         }
                         "CZK" -> {
                             val conversionRate = 1.5459
                             val newAmount: Double = amount * conversionRate
                             conversionAmountView.visibility = View.VISIBLE
-                            conversionAmountView.text = "Kč${newAmount.toString()}"
+                            conversionAmountView.text = "Kč ${newAmount.toString()}"
                         }
                     }
                 }
